@@ -1,2 +1,1 @@
-This is a new message to commit. 
-This is a message to push to github repo.
+This is a new message to commit. This is branch 1 pull request.
